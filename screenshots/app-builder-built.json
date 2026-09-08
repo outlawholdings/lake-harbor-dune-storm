@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "April Outlaw",
+      "hasCanvas": false,
+      "bodyTextLen": 4070,
+      "bodyTextHash": "db08ec04bf57d155b38bbf56d617f4658244dffa8ae26fd7c717c6846b517c4b",
+      "bodyTextPrefix": "AO April Outlaw Certified Surgical Technologist · McMinnville, T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "April Outlaw",
+      "hasCanvas": false,
+      "bodyTextLen": 3641,
+      "bodyTextHash": "aa6b66c2bf170ed96415a31fa0ccbc29778e72cba2ce76785aa01fbb78ae62ee",
+      "bodyTextPrefix": "AO April Outlaw Print CERTIFIED SURGICAL TECHNOLOGIST·HEALTH INF",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
